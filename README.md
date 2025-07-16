@@ -70,18 +70,5 @@ Run the Scoring ScriptExecute the generate_scores.py script from your terminal, 
 
 The script will log its progress and create the wallet_credit_scores.csv file upon completion.
 
-Project Structure- The repository is organized as follows to ensure clarity and maintainability:
-
-aave-credit-scoring/
-│
-├── data/
-│   └── user-wallet-transactions.json   # Input transaction data (not included in repo)
-│
-├── notebooks/
-│   └── feature_engineering.ipynb       # Exploratory Data Analysis (EDA) and model prototyping.
-│
-├── generate_scores.py                  # The main executable Python script for scoring.
-├── requirements.txt                    # A list of required Python packages for setup.
-├── README.md                           # This documentation file.
-└── analysis.md                         # A detailed analysis of the scoring results and wallet behavior.
+![File structure](File_str.png)
 
