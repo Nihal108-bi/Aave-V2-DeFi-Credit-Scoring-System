@@ -69,6 +69,7 @@ pip install -r requirements.txt
 Run the Scoring ScriptExecute the generate_scores.py script from your terminal, providing the path to the input JSON file and the desired output CSV file.python generate_scores.py --input data/user-wallet-transactions.json --output wallet_credit_scores.csv
 
 The script will log its progress and create the wallet_credit_scores.csv file upon completion.
+![File Structure](file_str.png)
 Project Structure- The repository is organized as follows to ensure clarity and maintainability:
 
 aave-credit-scoring/
