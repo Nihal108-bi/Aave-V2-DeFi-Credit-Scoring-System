@@ -62,13 +62,14 @@ The scoring process is as follows:
    ```bash
    git clone [https://github.com/your-username/aave-credit-scoring.git](https://github.com/Nihal108-bi/Aave-V2-DeFi-Credit-Scoring-System.git)
    cd aave-credit-scoring
-Install DependenciesIt is recommended to use a virtual environment.python -m venv venv
+Install Dependencies It is recommended to use a virtual environment. python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
 
 Run the Scoring ScriptExecute the generate_scores.py script from your terminal, providing the path to the input JSON file and the desired output CSV file.python generate_scores.py --input data/user-wallet-transactions.json --output wallet_credit_scores.csv
 
-The script will log its progress and create the wallet_credit_scores.csv file upon completion.4. Project StructureThe repository is organized as follows to ensure clarity and maintainability:
+The script will log its progress and create the wallet_credit_scores.csv file upon completion.
+Project Structure- The repository is organized as follows to ensure clarity and maintainability:
 
 aave-credit-scoring/
 │
