@@ -97,7 +97,7 @@ To further explore the relationships between features and scores, we created a c
 
 This heatmap shows the correlation between our engineered features and the final credit score.
 
-![Correlation Heatmap](https://i.imgur.com/5V3o5D9.png)
+![Correlation Heatmap](Correlation_Heatmap.png)
 
 **Key Finding**: The `credit_score` has a strong **positive correlation** with `repay_borrow_ratio_value` and `active_days`, and a **negative correlation** with `liquidation_ratio`. This mathematically confirms that our model is correctly rewarding responsible behavior (repaying debts, long-term activity) and penalizing risky actions (liquidations).
 
@@ -105,7 +105,7 @@ This heatmap shows the correlation between our engineered features and the final
 
 This chart provides a powerful visual comparison of the behavioral profiles of high-score versus low-score wallets.
 
-![Radar Chart](https://i.imgur.com/k6lP1e4.png)
+![Radar Chart](Radar_Chart.png)
 
 **Key Finding**: The radar chart clearly illustrates the fundamental difference between the two groups:
 
