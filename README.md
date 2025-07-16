@@ -61,7 +61,7 @@ The scoring process is as follows:
 
    ```bash
    git clone [https://github.com/your-username/aave-credit-scoring.git](https://github.com/Nihal108-bi/Aave-V2-DeFi-Credit-Scoring-System.git)
-   cd aave-credit-scoring
+   cd Aave-V2-DeFi-Credit-Scoring-System
 Install Dependencies It is recommended to use a virtual environment. python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
