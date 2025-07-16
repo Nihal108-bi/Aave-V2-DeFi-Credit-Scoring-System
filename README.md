@@ -83,3 +83,4 @@ aave-credit-scoring/
 ├── requirements.txt                    # A list of required Python packages for setup.
 ├── README.md                           # This documentation file.
 └── analysis.md                         # A detailed analysis of the scoring results and wallet behavior.
+
