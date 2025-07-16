@@ -60,7 +60,7 @@ The scoring process is as follows:
 1. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/your-username/aave-credit-scoring.git](https://github.com/your-username/aave-credit-scoring.git)
+   git clone [https://github.com/your-username/aave-credit-scoring.git](https://github.com/Nihal108-bi/Aave-V2-DeFi-Credit-Scoring-System.git)
    cd aave-credit-scoring
 Install DependenciesIt is recommended to use a virtual environment.python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
